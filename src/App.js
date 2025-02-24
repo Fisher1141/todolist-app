@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h2>Andrew Fisher - Performance Assessment</h2>
+        <h2>Andrew Fisher - Basic App Deployment</h2>
         <h3>Simple Counter</h3>
         <Counter />
         <h3>Form Input</h3>
